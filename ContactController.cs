@@ -6,6 +6,7 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace Contactly_WebAPICore.Controllers
 {
+    //ok
     [Route("api/[controller]")]
     [ApiController]
     public class ContactController : ControllerBase
